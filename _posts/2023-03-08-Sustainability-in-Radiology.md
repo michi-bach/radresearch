@@ -1,7 +1,7 @@
 ---
 title: Sustainability in Radiology
 layout: post
-post-image: ![niceImage](./assets/images/ipsos-sustainability-green-travel-opti.jpg)
+post-image: ./assets/images/ipsos-sustainability-green-travel-opti.jpg
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
