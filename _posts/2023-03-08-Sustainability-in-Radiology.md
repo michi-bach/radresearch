@@ -18,6 +18,7 @@ For more information about writing markdown you can checkout the following markd
 
 [BlogLink]({% post_url 2020-04-21-what-is-jekyll-how-to-use-it %})
 wererwett
+{{post.post-image}}
 
 ---
 
