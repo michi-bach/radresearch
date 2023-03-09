@@ -1,7 +1,7 @@
 ---
 title: Total Segmentator
 layout: post
-post-image: ./assets/images/ResearchRadiology/TotalSeg1_v2.jpg
+post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/TotalSeg_16_9_v1.jpg?raw=true
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
@@ -64,7 +64,7 @@ Author: {{ author[0].name }}
 5. Item 5
 
 **Images in the post will look like:**<br>
-![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
+![Test Image](https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/TotalSeg1_v2.jpg?raw=true)
 
 **Normal text in the post will look like**<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.
