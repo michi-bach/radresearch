@@ -19,7 +19,7 @@ For more information about writing markdown you can checkout the following markd
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
-[BlogLink]({% post_url 2020-04-21-what-is-jekyll-how-to-use-it %})
+[BlogLink]({{site.baseurl}}{% post_url 2020-04-21-what-is-jekyll-how-to-use-it %})
 wererwett
 
 ---
