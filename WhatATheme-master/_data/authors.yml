@@ -1,0 +1,9 @@
+john_doe:    
+  name: John Doe    
+  email: mailto:john@example.com
+rms:
+  name: Richard Stallman
+  email: mailto:rms@gnu.org
+mib:
+  name: Men Black
+  email: mailto:rms@gnu.org
