@@ -1,13 +1,16 @@
 ---
-title: Sustainability in Radiology
+title: Energy Consumption CT/MRI
 layout: post
-post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ipsos-sustainability-green-travel-opti.jpg?raw=true
+post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/EnergyConsumption.png?raw=true
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
-- sample
-- post
-- test
+- sustainability
+- energy
+- CO2
+authors:
+- Tobias_Heye
+- Jan_Vosshenrich
 ---
 
 This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.

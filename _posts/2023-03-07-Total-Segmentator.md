@@ -5,12 +5,11 @@ post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
-- sample
-- post
-- pup
+- AI
+- segmentation
+- CT
 authors:
-- rms
-- john_doe
+- Jakob_Wasserthal
 ---
 
 This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.

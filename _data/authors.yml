@@ -1,9 +1,27 @@
-john_doe:    
-  name: John Doe    
+Christian_Breit:    
+  name: Christian Breit   
   email: mailto:john@example.com
-rms:
-  name: Richard Stallman
+  
+Francesco_Santini:
+  name: Francesco Santini
   email: mailto:rms@gnu.org
-mib:
-  name: Men Black
+  
+Michael_Bach:
+  name: Michael Bach
+  email: mailto:rms@gnu.org
+  
+Shan_Yang:
+  name: Shan Yang
+  email: mailto:rms@gnu.org
+  
+Jakob_Wasserthal:
+  name: Jakob Wasserthal
+  email: mailto:rms@gnu.org
+  
+Tobias_Heye:
+  name: Tobias Heye
+  email: mailto:rms@gnu.org
+  
+Jan_Vosshenrich:
+  name: Jan Vosshenrich
   email: mailto:rms@gnu.org
