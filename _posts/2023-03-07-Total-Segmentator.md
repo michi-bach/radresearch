@@ -1,7 +1,7 @@
 ---
 title: Total Segmentator
 layout: post
-post-image: /assets/images/ResearchRadiology/TotalSeg1_v2.jpg
+post-image: ./assets/images/ResearchRadiology/TotalSeg1_v2.jpg
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
