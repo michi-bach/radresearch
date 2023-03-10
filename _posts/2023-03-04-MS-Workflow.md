@@ -1,5 +1,5 @@
 ---
-title: Lung Report
+title: MS Workflow
 layout: post
 post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/01_lung_report_overview_16_9.jpg?raw=true
 description: A sample post to show how the content will look and how will different
@@ -22,7 +22,7 @@ For more information about writing markdown you can checkout the following markd
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
-[BlogLink]({{site.baseurl}}{% post_url 2020-04-21-what-is-jekyll-how-to-use-it %})
+[BlogLink]({{site.baseurl}}{% post_url 2023-03-08-Sustainability-in-Radiology %})
 wererwett
 
 ---

@@ -1,16 +1,21 @@
 ---
-title: 0.55 Tesla vs 1.5 and 3 Tesla
+title: Aorta-Diameters
 layout: post
-post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/FreeMax_vs_other_v1.jpg?raw=true
+post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/Aorta_Messung.png?raw=true
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
-- Free.Max
-- Low Field
-- MRI
+- Reporting
+- Workflow
+- AI
 authors:
-- Christian_Breit
+- Shan_Yang
 ---
+
+**Objectives:**
+* automatic detection of aorta diameters
+* follow-up
+* SECTRA integration
 
 This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
 For more information about writing markdown you can checkout the following markdown cheatsheets:
