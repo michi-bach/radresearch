@@ -1,7 +1,7 @@
 ---
 title: Lung Report
 layout: post
-post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/MS_Workflow.jpg?raw=true
+post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/01_lung_report_overview_16_9.jpg?raw=true
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:

@@ -1,7 +1,7 @@
 ---
 title: MS Workflow
 layout: post
-post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/01_lung_report_overview_16_9.jpg?raw=true
+post-image: https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/MS_Workflow.jpg?raw=true
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
@@ -26,6 +26,10 @@ For more information about writing markdown you can checkout the following markd
 wererwett
 
 ---
+**Images in the post will look like:**<br>
+![Test Image](https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/MS_Workflow.jpg?raw=true)
+
+
 {% assign author = site.data.authors[page.author] %}
 Author: {{ author[0].name }}
 {% for author in site.data.authors %}
