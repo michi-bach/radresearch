@@ -27,6 +27,10 @@ For more information about writing markdown you can checkout the following markd
 wererwett
 
 ---
+**Images in the post will look like:**<br>
+![Test Image](https://github.com/michi-bach/radresearch/blob/master/assets/images/ResearchRadiology/Aorta_Messung.png?raw=true)
+
+
 {% assign author = site.data.authors[page.author] %}
 Author: {{ author[0].name }}
 {% for author in site.data.authors %}
